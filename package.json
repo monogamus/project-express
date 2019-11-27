@@ -1,0 +1,20 @@
+{
+  "name": "project-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "bagus suryadi",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
