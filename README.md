@@ -1,4 +1,4 @@
-# Project-Express
+# Project Express
 
 - Create a new repo for the project: project-express
 * Structure, modify, create, and use the modular Node.js files to create a REST API
